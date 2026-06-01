@@ -4,7 +4,7 @@
 
 * Pedro Morais Hilbert
 * Letícia Petrina Machado Silva
-* Daniel de Almeida Vieira
+* Christopher Nascimento Lopes de Azevedo
 * João Augusto Miranda Viana de Souza
 * Luana Xaviel Monteiro
 
